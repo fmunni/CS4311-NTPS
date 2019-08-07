@@ -11,4 +11,4 @@
 1. Open a terminal and change directory to the directory where ntps_gui.py is downloaded.
 2. Run `sudo python ntps_gui.py` (sudo is required to allow sniffing packet using scapy) 
 
-![Uploading NTPS_image.png…]()
+![image](https://github.com/fmunni/CS4311-NTPS/blob/master/NTPS_image.png)
