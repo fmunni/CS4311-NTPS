@@ -1,4 +1,4 @@
-# CS4311-NTPS
+# Network Traffic Proxy System (NTPS)
 
 ### Dependencies:
 1. Python3 (tested on python 3.6)
